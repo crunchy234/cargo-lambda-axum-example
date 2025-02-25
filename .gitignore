@@ -1,2 +1,16 @@
 /target
 .idea
+
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+.override
+.override.*
+.plan
+.terraform/
+.terraform.lock.hcl
+
